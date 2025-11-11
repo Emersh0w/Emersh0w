@@ -60,27 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="48" alt="svelte logo" />
 </div>
 
----
-
-<h3 align="center">Other tools I've used...</h3>
-
-<!-- Support -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,bash,codepen,md,windows,notion,androidstudio,linux" height="32" alt="webassembly logo" />
-</div>
-
-<!-- Backend -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,redis,flask,supabase,firebase,c,selenium" height="32" alt="backend stack" />
-</div>
-
-<!-- Frontend -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,bootstrap,vite,wasm" height="32" alt="frontend stack" />
-</div>
-
----
-
 <h3 align="center">Let's Connect</h3>
 <p align="center">
   Here are my socials, feel free to contact for websites, apps, projects, ideas or to just talk! 
