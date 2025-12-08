@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Emersh0w" height="200" alt="Leetcode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Emersh0w" height="175" alt="Leetcode Stats"/>
     <img width="50">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emersh0w&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="200" alt="Stats Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emersh0w&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="175" alt="Stats Graph"/>
 </div>
