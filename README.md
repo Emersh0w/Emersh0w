@@ -1,4 +1,4 @@
-<h1 align="center">I'm Emerson 🇧🇷 • Full Stack Dev • Computer Science Student  </h1>
+<h1 align="center">I'm Emerson Proença • Backend Dev 🇧🇷 • Computer Science Student </h1>
 
 <p align="center">
     <strong>Learning:</strong> Backend • Database • API • Architecture • Cross-platform Development <br>
